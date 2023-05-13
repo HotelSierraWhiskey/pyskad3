@@ -1,0 +1,3 @@
+[submodule "api/desfire/apdu_utils"]
+	path = api/desfire/apdu_utils
+	url = https://github.com/HotelSierraWhiskey/apdu_utils
