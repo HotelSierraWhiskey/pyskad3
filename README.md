@@ -76,7 +76,7 @@ dispenser.send_raw_apdu([0x90, 0xCD, 0x00, 0x00, 0x07, 0x00, 0x00, 0xEE, 0xEE, 0
 
 Python 3 (v3.11 recommended).
 
-This project uses [APDU Utils](https://bitbucket.org/RookHotel/apdu_utils/src/master/) as a git submodule. Clone this project using the ```---recurse-submodules``` flag to ensure that APDU Utils comes included. The following modules also need to be installed in your environment:
+This project uses [APDU Utils](https://github.com/HotelSierraWhiskey/apdu_utils) as a git submodule. Clone this project using the ```---recurse-submodules``` flag to ensure that APDU Utils comes included. The following modules also need to be installed in your environment:
 
 - numpy
 - pycryptodome
