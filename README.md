@@ -1,4 +1,4 @@
-# SK-AD3 Card Dispenser (*In Development*)
+# SK-AD3 Card Dispenser
 
 ## What is this?
 
