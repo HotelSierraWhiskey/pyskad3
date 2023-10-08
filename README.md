@@ -1,4 +1,4 @@
-# SK-AD3 Card Dispenser
+# PySKAD3
 
 ## What is this?
 
